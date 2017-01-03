@@ -5,7 +5,8 @@ Andorid 6.0 权限封装
 ****
 ###　　　　　　　　　　　　Author:ScottFu
 ###　　　　　　　　　 E-mail:alanfujindong@gmail.com
-关注微信订阅号，推送您喜欢的技术博文，还有搞笑gif,微信聊天表情包
+关注微信订阅号，推送您喜欢的技术博文，还有搞笑gif,微信聊天表情包。<dr>
+有问题可直接在订阅号中回复，我会查看的。
 ![关注微信订阅号](https://github.com/ScottFJD/SFPermission/raw/master/logo/20161226090130556.jpg)
 ===========================
 
