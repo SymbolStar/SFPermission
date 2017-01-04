@@ -21,6 +21,7 @@ public class PermissionActivity extends BaseActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        //移除activity
         ActivityCollector.removeActivity(this);
     }
 

@@ -24,6 +24,7 @@ public class ActivityCollector {
         if (activityList.isEmpty()) {
             return null;
         } else {
+//            返回栈底的activity
             return activityList.get(activityList.size() - 1);
         }
     }

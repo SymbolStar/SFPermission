@@ -15,6 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 权限申请
  * Created by fujindong on 2017/1/1.
  */
 
